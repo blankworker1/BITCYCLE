@@ -51,6 +51,8 @@ Each partner has a dedicated live module in the web app, updated in real time fr
 
 The app is the homepage. There is no separate marketing site - the live map, route, rider profiles, slot counter, and partner modules are the product.
 
+(https://blankworker1.github.io/BITCYCLE/)
+
 ### Three Phases
 
 The app renders differently depending on the current event state, controlled by a single flag:
@@ -154,7 +156,10 @@ All content is timestamped and public. Sovereign-path riders can sign posts with
 
 ```
 
-The current file in this repository is the **static demo** a self-contained HTML file with dummy data, no backend required. It is intended for partner review and feedback before the full backend is built.[link to demo](https://blankworker1.github.io/BITCYCLE/))
+The current file in this repository is the **static demo** a self-contained HTML file with dummy data, no backend required. It is intended for partner review and feedback before the full backend is built.
+
+[link to demo](https://blankworker1.github.io/BITCYCLE/)
+
 ---
 
 ## Repository Structure
