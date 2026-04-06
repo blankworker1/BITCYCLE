@@ -210,10 +210,10 @@ To discuss a partner slot, please get in touch via the contact details provided 
 
 ## Departure
 
-**22 May 2025 Â· Bournemouth, UK**
+**22 May 2026 - Bournemouth, UK**
 
 ---
 
-*Bitcycle Iteration 1 Â· Built with Cloudflare Pages, Workers, and KV Â· Bitcoin-native from the ground up*
+*Bitcycle Iteration 1 · Built with Cloudflare Pages, Workers, and KV · Bitcoin-native from the ground up*
 
 
