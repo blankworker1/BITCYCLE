@@ -94,7 +94,7 @@ The app renders differently depending on the current event state, controlled by 
 
 ## Joining the Ride
 
-For this first event there are 10 rider slots are available. Entry is permissionless - no application or approval needed. Claiming a slot requires a Lightning payment.
+For the first event there are 10 rider slots are available. Entry is permissionless - no application or approval needed. Claiming a slot requires a Lightning payment.
 
 ### Two Entry Paths
 
