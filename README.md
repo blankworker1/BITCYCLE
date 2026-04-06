@@ -3,7 +3,9 @@
 
 **A permissionless protocol for human-powered travel, verified by GPS, funded by Bitcoin, and recorded permanently on-chain.**
 
-Bitcycle is a live event hub for a multi-country cycling expedition (Bournemouth, UK to Bosa, Sardinia) departing 22 May 2025. This repository contains the web application: a single-page app that serves as the public face of the event before, during, and after the ride.
+Bitcycle is a live event hub for a multi-country cycling expedition (Bournemouth, UK to Bosa, Sardinia) departing 22 May 2025. 
+
+This repository contains the web application: a single-page app that serves as the public face of the event before, during, and after the ride.
 
 ---
 
