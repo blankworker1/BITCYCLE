@@ -154,8 +154,7 @@ All content is timestamped and public. Sovereign-path riders can sign posts with
 
 ```
 
-The current file in this repository is the **static demo** a self-contained HTML file with dummy data, no backend required. It is intended for partner review and feedback before the full backend is built.
-
+The current file in this repository is the **static demo** a self-contained HTML file with dummy data, no backend required. It is intended for partner review and feedback before the full backend is built.[link to demo](https://blankworker1.github.io/BITCYCLE/))
 ---
 
 ## Repository Structure
