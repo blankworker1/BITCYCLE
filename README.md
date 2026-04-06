@@ -33,12 +33,15 @@ Two sea crossings. Three countries. Entirely by human-powered bike.
 
 Bitcycle operates across five layers. Each layer is supported by a protocol partner.
 
+```
 | Layer      | Function                                | Partner      |
 | Energy     | Power generation & storage              | TBC |
 | Mobility   | Physical transport platform.            | TBC |
 | Spendingn  | Bitcoin for real-world goods & services | TBC |
 | Social     | Community coordination along the route  | TBC |
 | Funding    | Decentralised capital formation.        | TBC |
+
+```
 
 Each partner has a dedicated live module in the web app, updated in real time from their data feed during the event.
 
@@ -73,6 +76,8 @@ The app renders differently depending on the current event state, controlled by 
 
 ### Pages
 
+```
+
 | Path           | Description |
 
 | `/`            | Homepage map, route, riders, partner modules |
@@ -80,6 +85,8 @@ The app renders differently depending on the current event state, controlled by 
 | `/riders/[id]` | Individual rider profile, GPS log, posts |
 | `/feed`        | Chronological event feed  all activity |
 | `/archive`     | Post-event permanent record |
+
+```
 
 ---
 
@@ -133,6 +140,7 @@ All content is timestamped and public. Sovereign-path riders can sign posts with
 
 ## Technical Stack
 
+```
 | Layer                | Technology |
 
 | Frontend             | HTML + Vanilla JS (no framework) |
@@ -143,6 +151,8 @@ All content is timestamped and public. Sovereign-path riders can sign posts with
 | Payments             | Blink API (Lightning invoices + webhooks) |
 | Identity (simple)    | Cloudflare KV with hashed PIN |
 | Identity (sovereign) | Nostr NIP-07 via Alby |
+
+```
 
 The current file in this repository is the **static demo** a self-contained HTML file with dummy data, no backend required. It is intended for partner review and feedback before the full backend is built.
 
@@ -162,6 +172,8 @@ The production app will expand to include Cloudflare Worker scripts, KV schemas,
 
 ## Current Status
 
+```
+
 | Component                      | Status |
 
 | Static demo                    | Live |
@@ -172,6 +184,9 @@ The production app will expand to include Cloudflare Worker scripts, KV schemas,
 | Lightning payment flow (Blink) | In development |
 | GPS tracking (live)            | In development |
 | Nostr identity (NIP-07)        | In development |
+
+```
+
 
 ---
 
