@@ -9,7 +9,7 @@ Bitcycle is a live event hub for a multi-country cycling expedition (Bournemouth
 
 ## What Is Bitcycle?
 
-Bitcycle is not a cycling trip. It is the first real-world deployment of a Bitcoin-native physical protocol a stack of infrastructure working together to power, fund, coordinate, and verify human movement using Bitcoin.
+Bitcycle is not a cycling trip. It is the first real-world deployment of a Bitcoin-native physical protocol - a stack of infrastructure working together to power, fund, coordinate, and verify human movement using Bitcoin.
 
 Each iteration of the protocol produces three things:
 
