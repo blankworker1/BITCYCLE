@@ -158,8 +158,6 @@ All content is timestamped and public. Sovereign-path riders can sign posts with
 
 The current file in this repository is the **static demo** a self-contained HTML file with dummy data, no backend required. It is intended for partner review and feedback before the full backend is built.
 
-[link to demo](https://blankworker1.github.io/BITCYCLE/)
-
 ---
 
 ## Repository Structure
@@ -201,9 +199,9 @@ If you are reviewing this as a potential protocol partner, the live demo shows e
 Each partner module displays:
 
 - Your brand and role in the protocol stack
-- 
+  
 - Live metrics from your data feed (energy generated, sats spent, km funded, etc.)
-- 
+  
 - Presence on every page view for the duration of the ride
 
 The demo currently shows placeholder data. Once confirmed, your module is activated with a single update - no rebuild required.
