@@ -94,17 +94,17 @@ The app renders differently depending on the current event state, controlled by 
 
 ## Joining the Ride
 
-10 slots are available. Entry is permissionless - no application or approval needed. Claiming a slot requires a Lightning payment.
+For this first event there are 10 rider slots are available. Entry is permissionless - no application or approval needed. Claiming a slot requires a Lightning payment.
 
 ### Two Entry Paths
 
-**âš¡ Simple Path**
+**Simple Path**
 - Choose a username
 - Set a PIN (6 digits)
 - Pay the entry fee via Lightning invoice (any wallet)
 - Slot confirmed, profile created
 
-**ðŸ”‘ Sovereign Path**
+**Sovereign Path**
 - Connect an Alby browser extension (NIP-07 Nostr wallet)
 - Sign a challenge  your private key never leaves your device
 - Pay the entry fee via Lightning invoice
